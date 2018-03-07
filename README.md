@@ -1,7 +1,3 @@
-create parent.c  in project named Parent
+#WinAPI IPC mechanism(named pipes) , Threads
 
-create child.c in project named Child
-
-set parent project as startup project
-
-add market.txt from right clicking by add new item on solution
+This is my homework for Operating Systems class which is covering  OS level works (IPC,threads).
